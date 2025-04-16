@@ -1,0 +1,250 @@
+[
+  {
+    "calories": 95.0,
+    "carbs": 25.0,
+    "description": "A medium-sized red apple",
+    "fats": 0.3,
+    "id": "apple",
+    "keywords": [
+      "fruit",
+      "sweet",
+      "snack"
+    ],
+    "proteins": 0.5,
+    "type": "basic"
+  },
+  {
+    "calories": 5.0,
+    "carbs": 58.0,
+    "description": "asda s dasd a",
+    "fats": 5.0,
+    "id": "aqweqwe",
+    "keywords": [
+      "asd asd asd asd asd asda sdasda sd"
+    ],
+    "proteins": 5.0,
+    "type": "basic"
+  },
+  {
+    "calories": 5.0,
+    "carbs": 5.0,
+    "description": "asdas da dasdasd as dasd",
+    "fats": 22.0,
+    "id": "asd",
+    "keywords": [
+      "polo",
+      "my",
+      "nmae"
+    ],
+    "proteins": 6.0,
+    "type": "basic"
+  },
+  {
+    "calories": 105.0,
+    "carbs": 27.0,
+    "description": "A medium-sized ripe banana",
+    "fats": 0.4,
+    "id": "banana",
+    "keywords": [
+      "fruit",
+      "sweet",
+      "snack",
+      "potassium"
+    ],
+    "proteins": 1.3,
+    "type": "basic"
+  },
+  {
+    "calories": 79.0,
+    "carbs": 13.8,
+    "description": "One slice (28g) of whole wheat bread",
+    "fats": 1.1,
+    "id": "bread_slice",
+    "keywords": [
+      "grain",
+      "carb",
+      "sandwich"
+    ],
+    "proteins": 3.6,
+    "type": "basic"
+  },
+  {
+    "calories": 55.0,
+    "carbs": 11.2,
+    "description": "A cup (91g) of chopped raw broccoli",
+    "fats": 0.6,
+    "id": "broccoli",
+    "keywords": [
+      "vegetable",
+      "green",
+      "fiber"
+    ],
+    "proteins": 3.7,
+    "type": "basic"
+  },
+  {
+    "calories": 218.0,
+    "carbs": 45.8,
+    "description": "A cup (195g) of cooked brown rice",
+    "fats": 1.8,
+    "id": "brown_rice",
+    "keywords": [
+      "grain",
+      "carb",
+      "side"
+    ],
+    "proteins": 5.0,
+    "type": "basic"
+  },
+  {
+    "calories": 45.0,
+    "carbs": 1.0,
+    "description": "good",
+    "fats": 0.0,
+    "id": "cheese",
+    "keywords": [
+      "popo"
+    ],
+    "proteins": 2.0,
+    "type": "basic"
+  },
+  {
+    "calories": 165.0,
+    "carbs": 0.0,
+    "description": "A 100g serving of boneless, skinless chicken breast",
+    "fats": 3.6,
+    "id": "chicken_breast",
+    "keywords": [
+      "meat",
+      "protein",
+      "poultry"
+    ],
+    "proteins": 31.0,
+    "type": "basic"
+  },
+  {
+    "calories": 78.0,
+    "carbs": 0.6,
+    "description": "One large egg (50g)",
+    "fats": 5.3,
+    "id": "egg",
+    "keywords": [
+      "protein",
+      "breakfast",
+      "versatile"
+    ],
+    "proteins": 6.3,
+    "type": "basic"
+  },
+  {
+    "calories": 23.0,
+    "carbs": 23.0,
+    "description": "nice one",
+    "fats": 23.0,
+    "id": "hiphop",
+    "keywords": [
+      "healthy",
+      "omega3",
+      "spread"
+    ],
+    "proteins": 23.0,
+    "type": "basic"
+  },
+  {
+    "calories": 122.0,
+    "carbs": 11.7,
+    "description": "One cup (244g) of whole milk",
+    "fats": 8.0,
+    "id": "milk",
+    "keywords": [
+      "dairy",
+      "calcium",
+      "protein"
+    ],
+    "proteins": 8.0,
+    "type": "basic"
+  },
+  {
+    "calories": 10.0,
+    "carbs": 10.0,
+    "description": "adasin iaudf iusdn fiuasdi fs",
+    "fats": 2.0,
+    "id": "naan",
+    "keywords": [
+      "maida",
+      "punjabi"
+    ],
+    "proteins": 1.0,
+    "type": "basic"
+  },
+  {
+    "calories": 119.0,
+    "carbs": 0.0,
+    "description": "A tablespoon (14g) of extra virgin olive oil",
+    "fats": 13.5,
+    "id": "olive_oil",
+    "keywords": [
+      "oil",
+      "fat",
+      "cooking"
+    ],
+    "proteins": 0.0,
+    "type": "basic"
+  },
+  {
+    "calories": 1.0,
+    "carbs": 23.0,
+    "description": "good lunch",
+    "fats": 87.0,
+    "id": "pappu poriyal",
+    "keywords": [
+      "omega3",
+      "yamma",
+      "lappu"
+    ],
+    "proteins": 45.0,
+    "type": "basic"
+  },
+  {
+    "calories": 94.0,
+    "carbs": 3.1,
+    "description": "One tablespoon (16g) of smooth peanut butter",
+    "fats": 8.0,
+    "id": "peanut_butter",
+    "keywords": [
+      "spread",
+      "protein",
+      "fat"
+    ],
+    "proteins": 3.6,
+    "type": "basic"
+  },
+  {
+    "calories": 208.0,
+    "carbs": 0.0,
+    "description": "A 100g serving of Atlantic salmon fillet",
+    "fats": 13.4,
+    "id": "salmon",
+    "keywords": [
+      "fish",
+      "protein",
+      "omega3"
+    ],
+    "proteins": 20.4,
+    "type": "basic"
+  },
+  {
+    "calories": 52.0,
+    "carbs": 13.8,
+    "description": "One tablespoon (20g) of strawberry jelly",
+    "fats": 0.0,
+    "id": "strawberry_jelly",
+    "keywords": [
+      "spread",
+      "sweet",
+      "fruit"
+    ],
+    "proteins": 0.1,
+    "type": "basic"
+  }
+]

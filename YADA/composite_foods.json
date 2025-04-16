@@ -1,0 +1,128 @@
+[
+  {
+    "calories": 3574.0,
+    "components": {
+      "milk": 5,
+      "salmon": 3,
+      "salmon_jelly": 5
+    },
+    "id": "123131",
+    "keywords": [
+      "polo",
+      "lunch",
+      "bakery"
+    ],
+    "type": "composite"
+  },
+  {
+    "calories": 438.0,
+    "components": {
+      "broccoli": 1,
+      "brown_rice": 1,
+      "chicken_breast": 1,
+      "olive_oil": 0
+    },
+    "id": "chicken_rice_bowl",
+    "keywords": [
+      "meal",
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "type": "composite"
+  },
+  {
+    "calories": 304.0,
+    "components": {
+      "bread_slice": 2,
+      "peanut_butter": 1,
+      "strawberry_jelly": 1
+    },
+    "id": "pbj_sandwich",
+    "keywords": [
+      "sandwich",
+      "lunch",
+      "sweet"
+    ],
+    "type": "composite"
+  },
+  {
+    "calories": 252.0,
+    "components": {
+      "bread_slice": 2,
+      "peanut_butter": 1
+    },
+    "id": "peanut_butter_sandwich",
+    "keywords": [
+      "sandwich",
+      "lunch",
+      "protein"
+    ],
+    "type": "composite"
+  },
+  {
+    "calories": 212.0,
+    "components": {
+      "pappu poriyal": 24,
+      "peanut_butter": 2
+    },
+    "id": "poriyal with peanut butter",
+    "keywords": [
+      "lunch"
+    ],
+    "type": "composite"
+  },
+  {
+    "calories": 278.0,
+    "components": {
+      "egg": 2,
+      "milk": 1
+    },
+    "id": "protein_breakfast",
+    "keywords": [
+      "breakfast",
+      "protein",
+      "morning"
+    ],
+    "type": "composite"
+  },
+  {
+    "calories": 468.0,
+    "components": {
+      "salmon": 2,
+      "strawberry_jelly": 1
+    },
+    "id": "salmon_jelly",
+    "keywords": [
+      "fish",
+      "sweet",
+      "spread"
+    ],
+    "type": "composite"
+  },
+  {
+    "calories": 1208.0,
+    "components": {
+      "peanut_butter": 4,
+      "salmon": 4
+    },
+    "id": "yoy",
+    "keywords": [
+      "peanut_butter"
+    ],
+    "type": "composite"
+  },
+  {
+    "calories": 586.0,
+    "components": {
+      "egg": 1,
+      "milk": 4,
+      "naan": 2
+    },
+    "id": "yoyo",
+    "keywords": [
+      "breakfast"
+    ],
+    "type": "composite"
+  }
+]

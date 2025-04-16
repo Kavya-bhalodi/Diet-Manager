@@ -1,0 +1,97 @@
+{
+  "0000-00-00": [
+    {
+      "foodId": "strawberry_jelly",
+      "servings": 2
+    }
+  ],
+  "2025-03-15": [
+    {
+      "foodId": "breakfast_bowl",
+      "servings": 1
+    },
+    {
+      "foodId": "apple",
+      "servings": 1
+    },
+    {
+      "foodId": "chicken_rice_bowl",
+      "servings": 1
+    }
+  ],
+  "2025-03-16": [
+    {
+      "foodId": "egg",
+      "servings": 2
+    },
+    {
+      "foodId": "bread_slice",
+      "servings": 2
+    },
+    {
+      "foodId": "pb_sandwich",
+      "servings": 1
+    },
+    {
+      "foodId": "salmon",
+      "servings": 1
+    },
+    {
+      "foodId": "brown_rice",
+      "servings": 1
+    },
+    {
+      "foodId": "spinach",
+      "servings": 2
+    },
+    {
+      "foodId": "olive_oil",
+      "servings": 5
+    },
+    {
+      "foodId": "banana",
+      "servings": 5
+    }
+  ],
+  "2025-03-24": [
+    {
+      "foodId": "salmon",
+      "servings": 10
+    },
+    {
+      "foodId": "milk",
+      "servings": 10
+    }
+  ],
+  "2025-04-05": [
+    {
+      "foodId": "salmon_jelly",
+      "servings": 3
+    }
+  ],
+  "2025-04-06": [],
+  "2025-04-09": [
+    {
+      "foodId": "salmon",
+      "servings": 8
+    }
+  ],
+  "2025-04-10": [
+    {
+      "foodId": "pappu poriyal",
+      "servings": 23
+    },
+    {
+      "foodId": "yoyo",
+      "servings": 1
+    },
+    {
+      "foodId": "peanut_butter",
+      "servings": 2
+    },
+    {
+      "foodId": "naan",
+      "servings": 23
+    }
+  ]
+}
